@@ -1,0 +1,4 @@
+
+1. Top customers contribute a major share of total revenue, showing revenue concentration.
+2. The West and North regions generate higher sales compared to other regions.
+3. Some customers have not placed any orders, indicating strong potential for targeted marketing campaigns.
